@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//this is my micard exercise in flutter
+//this is my micard exercise in flutter data
 void main() {
   runApp(
     MaterialApp(
