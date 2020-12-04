@@ -14,7 +14,7 @@ void main() {
               backgroundColor: Colors.green,
               radius: 50.0,
               backgroundImage: AssetImage('images/img2.JPG'),
-            ),
+            ), //circle my image
             Text(
               'PMH web',
               style: TextStyle(
